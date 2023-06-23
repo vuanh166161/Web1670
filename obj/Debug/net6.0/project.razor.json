@@ -18374,33 +18374,8 @@
   "RootNamespace": "FPTBook",
   "Documents": [
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\CheckOut.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\CheckOut.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Home\\About.cshtml",
       "TargetPath": "Views\\Home\\About.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Publishers\\Create.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Publishers\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18414,23 +18389,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Home\\OrderDetail.cshtml",
       "TargetPath": "Views\\Home\\OrderDetail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\Edit.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18439,38 +18399,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Books\\Create.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Books\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18479,38 +18409,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\PlaceOrder.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\PlaceOrder.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\Details.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18529,58 +18434,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Books\\Delete.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Books\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\Edit.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Authors\\Details.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Authors\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Admin\\Index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Admin\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Publishers\\Delete.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Publishers\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18589,43 +18444,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Login.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Home\\Detail.cshtml",
       "TargetPath": "Views\\Home\\Detail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Record.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Record.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18634,43 +18454,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
+      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\RoleManager\\index.cshtml",
+      "TargetPath": "Views\\RoleManager\\index.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Web1670\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Web1670\\Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\OrderDetail.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\OrderDetail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18684,58 +18479,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Publishers\\Edit.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Publishers\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\Index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\Delete.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Help.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Help.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\Create.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18749,33 +18499,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\Delete.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\Create.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_StoreOwnerLayout.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_StoreOwnerLayout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18799,16 +18524,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\UserRoles\\index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\UserRoles\\index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
       "FileKind": "mvc"
@@ -18816,11 +18531,6 @@
     {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Home\\Help.cshtml",
       "TargetPath": "Views\\Home\\Help.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18834,11 +18544,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
       "FileKind": "mvc"
@@ -18846,16 +18551,6 @@
     {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Web1670\\Views\\_ViewImports.cshtml",
       "TargetPath": "Web1670\\Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18869,28 +18564,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Web1670\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Web1670\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18899,38 +18574,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Web1670\\Views\\Shared\\_MyLayout.cshtml",
       "TargetPath": "Web1670\\Views\\Shared\\_MyLayout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Authors\\Delete.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Authors\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18944,23 +18589,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\StoreOwner\\Index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\StoreOwner\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18969,28 +18599,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Admin\\ReportDemo.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Admin\\ReportDemo.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Shared\\_StoreOwnerLayout.cshtml",
       "TargetPath": "Views\\Shared\\_StoreOwnerLayout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18999,28 +18609,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\OrderDetail.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Order\\OrderDetail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\ErrorQuantity.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\ErrorQuantity.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Error.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19039,28 +18629,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_MyLayout.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_MyLayout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Books\\Edit.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Books\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Register.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19074,43 +18644,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Profile.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Profile.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Web1670\\Views\\_ViewStart.cshtml",
       "TargetPath": "Web1670\\Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19129,108 +18664,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Books\\Details.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Books\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Error.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Authors\\Create.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Authors\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Books\\Index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Books\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\About.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\About.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\EmptyCart.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\EmptyCart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\_ViewImports.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\RoleManager\\index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\RoleManager\\index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Authors\\Index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Authors\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19239,23 +18674,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\AddBook.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\AddBook.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Web1670\\Views\\Shared\\_StoreOwnerLayout.cshtml",
       "TargetPath": "Web1670\\Views\\Shared\\_StoreOwnerLayout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19274,16 +18694,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\RequestCategory.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\RequestCategory.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -19294,23 +18704,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\UserRoles\\Manage.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\UserRoles\\Manage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Detail.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Home\\Detail.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19319,58 +18714,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Home\\PlaceOrder.cshtml",
       "TargetPath": "Views\\Home\\PlaceOrder.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Authors\\Edit.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Authors\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\_ViewStart.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\Index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\Details.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Categories\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19389,38 +18739,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Publishers\\Index.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Publishers\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Publishers\\Details.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Publishers\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_AdminLayout.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\FPTBOOK\\Views\\Shared\\_AdminLayout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "FPTBOOK (2)\\FPTBOOK\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
