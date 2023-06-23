@@ -18549,6 +18549,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Admin\\Index.cshtml",
+      "TargetPath": "Views\\Admin\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Web1670\\Views\\_ViewImports.cshtml",
       "TargetPath": "Web1670\\Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
