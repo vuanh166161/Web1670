@@ -1,0 +1,70 @@
+@using Microsoft.AspNetCore.Identity
+@using FPTBook.Areas.Identity.Data
+
+@inject SignInManager<BookUser> SignInManager
+@inject UserManager<BookUser> UserManager
+@using FPTBook.Models;
+@model List<FPTBook.Models.UserRolesViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_AdminLayout";
+}
+    <div class="container-fluid">
+    <div class="row">
+        <div class="col-md-2 sidebar">
+            <div class="sidebar-sticky">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/UserRoles/Index">
+                            <i class="fa fa-building"></i> Manage Users
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/RoleManager/Index">
+                            <i class="fa fa-user"></i> Add Role
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Categories/Index">
+                            <i class="fa fa-building"></i> Manage Categories
+                        </a>
+                    </li>
+                </ul>
+                <form id="logoutForm" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button id="logout" type="submit" class="btn btn-dark btn-block">Logout</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+<h1>User Roles</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Date of Birth</th>
+            <th>Home Address</th>
+            <th>Email</th>
+            <th>Roles</th>
+            <th style="text-align: center">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+        <tr>
+            <td>@user.Name</td>
+            <td>@user.DOB</td>
+            <td>@user.Address</td>
+            <td>@user.Email</td>
+            <td>@string.Join(" , ", user.Roles.ToList())</td>
+            <td style="text-align: center">
+                <a class="btn btn-primary" asp-controller="UserRoles" asp-action="Manage" asp-route-userId="@user.UserId">Manage Roles</a>
+                @* <a class="btn btn-primary" asp-controller="UserRoles" asp-action="Manage" asp-route-userId="@user.UserId">Remove</a> *@
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+</div>
