@@ -1,6 +1,7 @@
 @model IEnumerable<FPTBook.Models.OrderItem>
 @{
     ViewData["Title"] = "Recorded Orders Detail";
+        int no = 1;
 }
 <section class="bg0 p-t-120 p-b-80">
     <div class="container">
@@ -18,10 +19,7 @@
                         <table class="table-shopping-cart">
                             <tr class="table_head text-center">
                                 <th>
-                                    Order ID
-                                </th>
-                                <th>
-                                    Book ID
+                                    No.
                                 </th>
                                 <th>
                                     Title
@@ -43,10 +41,7 @@
                             {
                                 <tr class="table_row">
                                     <td>
-                                        @Html.DisplayFor(modelItem => item.Order.Id)
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.Book.Id)
+                                        @no
                                     </td>
                                     <td>
                                         @Html.DisplayFor(modelItem => item.Book.Title)
@@ -64,6 +59,7 @@
                                         $@(item.Quantity*item.Book.Price)
                                     </td>
                                 </tr>
+                            no = no + 1;
                             }
                         </table>
                     </div>

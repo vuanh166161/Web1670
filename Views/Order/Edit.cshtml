@@ -137,13 +137,13 @@
                     <span asp-validation-for="Phone" class="text-danger"></span>
                 </div>
                 <div class="form-group">
-                    
-                    <input class="btn btn-primary" type="submit" asp-for="State" name="State" id="State" value="Delivering"></input> |
-                    <input class="btn btn-success" type="submit" asp-for="State" name="State" id="State" value="Delivered"></input> |
+                    <input class="btn btn-warning" type="submit" asp-for="State" name="State" id="State" value="Processing"></input>
+                    <input class="btn btn-primary" type="submit" asp-for="State" name="State" id="State" value="Complete"></input>
+                    <input class="btn btn-success" type="submit" asp-for="State" name="State" id="State" value="Delivering"></input> 
                     <input class="btn btn-danger" type="submit" asp-for="State" name="State" id="State" value="Canceled"></input> 
                     @* <input type="submit" value="Save" class="btn btn-primary" /> *@
                     <hr>
-                    <a asp-action="Index"type="button" class="btn btn-warning" >Back to List</a>
+                    <a asp-action="Index"type="button" class="btn" style="background-color: #575d5f; border-color:background-color: #575d5f; color:white">Back to List</a>
                 </div>
             </form>
         </div>
