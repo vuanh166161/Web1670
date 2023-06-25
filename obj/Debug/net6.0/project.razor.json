@@ -18374,6 +18374,11 @@
   "RootNamespace": "FPTBook",
   "Documents": [
     {
+      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Publishers\\Edit.cshtml",
+      "TargetPath": "Views\\Publishers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
@@ -18659,6 +18664,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Publishers\\Create.cshtml",
+      "TargetPath": "Views\\Publishers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -18754,6 +18764,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Publishers\\Index.cshtml",
+      "TargetPath": "Views\\Publishers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Categories\\Edit.cshtml",
       "TargetPath": "Categories\\Edit.cshtml",
       "FileKind": "mvc"
@@ -18766,6 +18781,11 @@
     {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Authors\\Create.cshtml",
       "TargetPath": "Views\\Authors\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Publishers\\Delete.cshtml",
+      "TargetPath": "Views\\Publishers\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18786,6 +18806,11 @@
     {
       "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Greenwich\\1670\\FPTBOOK\\Views\\Publishers\\Details.cshtml",
+      "TargetPath": "Views\\Publishers\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
