@@ -1,0 +1,108 @@
+@model IEnumerable<FPTBook.Models.Order>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_StoreOwnerLayout";
+}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-2 sidebar">
+            <div class="sidebar-sticky">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/Books/Index">
+                            <i class="fa fa-book"></i> Manage Books
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Authors/Index">
+                            <i class="fa fa-user"></i> Manage Authors
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Publishers/Index">
+                            <i class="fa fa-building"></i> Manage Publishers
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Order/Index">
+                            <i class="fa fa-shopping-cart"></i> Manage Orders
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Categories/RequestCategory">
+                            <i class="fa fa-list"></i> Request Category
+                        </a>
+                    </li>
+                </ul>
+                <form id="logoutForm" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button id="logout" type="submit" class="btn btn-dark btn-block">Logout</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+
+    <h2>Order Information</h2>
+    <hr>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.OrderTime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Total)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.State)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Fullname)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Address)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Phone)
+                </th>
+                <th>
+                     Detail &ensp;&ensp; Status
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OrderTime)
+                    </td>
+                    <td>
+                        $@Html.DisplayFor(modelItem => item.Total)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.State)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Fullname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Address)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Phone)
+                    </td>
+                    <td>
+                        <a asp-action="OrderDetail" asp-route-id="@item.Id"><button type="button" class="btn btn-info"><span
+                                class="material-symbols-outlined">visibility</span></button></a> |
+                        <a class="btn btn-info" asp-action="Edit" asp-route-id="@item.Id"><span class="material-symbols-outlined">edit_note</span></a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

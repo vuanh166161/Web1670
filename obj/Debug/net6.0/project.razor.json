@@ -18394,6 +18394,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\1670\\FPTBOOK\\Views\\Order\\Details.cshtml",
+      "TargetPath": "Views\\Order\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\1670\\FPTBOOK\\Views\\Shared\\_MyLayout.cshtml",
       "TargetPath": "Views\\Shared\\_MyLayout.cshtml",
       "FileKind": "mvc"
@@ -18509,6 +18514,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\1670\\FPTBOOK\\Views\\Order\\Index.cshtml",
+      "TargetPath": "Views\\Order\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\1670\\FPTBOOK\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
       "FileKind": "mvc"
@@ -18536,6 +18546,11 @@
     {
       "FilePath": "d:\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\1670\\FPTBOOK\\Views\\Order\\Create.cshtml",
+      "TargetPath": "Views\\Order\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18591,6 +18606,11 @@
     {
       "FilePath": "d:\\1670\\FPTBOOK\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\1670\\FPTBOOK\\Views\\Order\\OrderDetail.cshtml",
+      "TargetPath": "Views\\Order\\OrderDetail.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18704,6 +18724,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\1670\\FPTBOOK\\Views\\Order\\Delete.cshtml",
+      "TargetPath": "Views\\Order\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\1670\\FPTBOOK\\Views\\Home\\PlaceOrder.cshtml",
       "TargetPath": "Views\\Home\\PlaceOrder.cshtml",
       "FileKind": "mvc"
@@ -18716,6 +18741,11 @@
     {
       "FilePath": "d:\\1670\\FPTBOOK\\Views\\Categories\\Delete.cshtml",
       "TargetPath": "Views\\Categories\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\1670\\FPTBOOK\\Views\\Order\\Edit.cshtml",
+      "TargetPath": "Views\\Order\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
